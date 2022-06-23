@@ -1,2 +1,2 @@
 #!/bin/bas
-sudo chown  betty hello 
+chown  betty hello 
